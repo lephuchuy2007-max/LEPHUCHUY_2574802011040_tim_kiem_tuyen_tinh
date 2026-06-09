@@ -16,4 +16,4 @@ def count_total_passes(a):
 
 if __name__ == "__main__":
     a = [2, 1, 3, 4]
-    print(f"Số lượt cần thiết: {count_total_passes(a)} lượt")  # Kết quả: 2 lượt
+    print(f"Số lượt cần thiết: {count_total_passes(a)} lượt") 
